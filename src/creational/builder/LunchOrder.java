@@ -1,4 +1,4 @@
-package creational;
+package creational.builder;
 
  public class LunchOrder {
     public static class Builder{

@@ -1,4 +1,4 @@
-package creational;
+package creational.builder;
 
 public class LunchOrderApp {
     public static void main(String[] args){
